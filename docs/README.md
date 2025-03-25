@@ -314,7 +314,7 @@ at this time. Still, `SCHED_NORMAL` will remain as the default policy.
 
     ```
 - The size of each cpu's run queue should be limited to a maximium of 1 task at any time. Any overflow should go to the global run queue.
-- Newly enqueud task should be placed at the end of the global run queue.
+- Newly enqueued task should be placed at the end of the global run queue.
 - When a CPU needs a new task (for example during `dequeue_task` or `pick_next_task`), the CPU should pull a task from the head of the global run queue.
 - Heater is non-preemptive. When a heater task is scheduled to run, it continues executing until it voluntarily yields or exits. It should not be preempted by another heater task.
     
