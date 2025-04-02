@@ -561,7 +561,33 @@ Good luck!
 
 ### *Acknowledgments*
 
-Original Freezer Assignment can be found and refered [here](https://columbia-os.github.io/freezer/).
+Sankalp Singayapally, a TA for COMS W4118 Operating Systems I, Spring 2015,
+Columbia University, wrote the solution code for this assignment, based on his
+work in Fall 2014 in collaboration with Nicolas Mesa and Di Ruan.
+
+Mitchell Gouzenko and Akira Baruah, TAs in Spring 2016, updated the code for the
+4.1.18 kernel.
+
+Benjamin Hanser and Emily Meng, TAs in Spring 2017, updated the code for the
+4.4.50 kernel.
+
+John Hui, TA in Spring 2018, updated the code for the 64-bit 4.9.81 kernel, and
+updated the BFS portion of the assignment to MuQSS.
+
+Jonas Guan, TA in Spring 2019, updated the code for the 4.9.153 kernel.
+
+Dave Dirnfeld and Hans Montero, TAs in Spring 2020, updated the assignment for
+the 4.19.50 kernel.
+
+Kent Hall, John Hui, Xijiao Li, Hans Montero, Akhil Ravipati, Maÿlis Whetsel,
+and Tal Zussman, TAs in Fall 2021, updated the assignment for the 5.10.57
+kernel.
+
+Andy Cheng, Helen Chu, Phoebe Lu, Cynthia Zhang, and Tal Zussman, TAs in Spring
+2023, updated the assignment for the 5.10.158 kernel and implemented idle load
+balancing.
+
+Brennan McManus, TA in Spring 2024, updated the code for the 5.10.205 kernel.
 
 Ruizhe Fu and Nicholas Yap, TAs in Spring 2025, created and changed part 1, 4, 5, and updated code and 
 solution to the 6.8 kernel.
